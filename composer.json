@@ -1,0 +1,29 @@
+{
+    "name": "x/idcard",
+    "type": "library",
+    "description": "身份证号码归属地解析",
+    "keywords": [
+        "swoole",
+        "swoole-x",
+        "swoolex",
+        "sw-x",
+        "x-idcard"
+    ],
+    "homepage": "https://www.sw-x.cn/",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "小黄牛",
+            "email": "1731223728@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "> 7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "x\\IdCard\\": "src/"
+        }
+    }
+}
