@@ -1,5 +1,5 @@
 {
-    "name": "x/idcard",
+    "name": "swx/idcard",
     "type": "library",
     "description": "身份证号码归属地解析",
     "keywords": [
@@ -7,7 +7,7 @@
         "swoole-x",
         "swoolex",
         "sw-x",
-        "x-idcard"
+        "swx-idcard"
     ],
     "homepage": "https://www.sw-x.cn/",
     "license": "Apache-2.0",
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "x\\IdCard\\": "src/"
+            "Swx\\IdCard\\": "src/"
         }
     }
 }

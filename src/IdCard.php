@@ -11,7 +11,7 @@
  * +----------------------------------------------------------------------
 */
 
-// namespace x\IdCard;
+namespace Swx\IdCard;
 
 
 class IdCard {
